@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fantasyfootball-321306",
+  "private_key_id": "25ef938f229f45b2a3f0618c56b44109438c083a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTRoT+MMVCBT70\neRq1zwHRXZglZlldFOR/AjaMkfYEeFyzcfoGdiCyf11vjXqNNeO4P5VYGtK2UuC6\nzqHBf6GlHluOjWyQFnoDG9PWfVkOxmuLZR09C9+z1vFVqsmDjHKBF8WiyfnK9juh\n5xyHFy3XA4AiXndMdVeFQ5Oetq8JIlNRgdy9R8Y+HF4Civcq+8F/+XmJ+DK6AqEH\n+noASeW7CMZ62RrLe/OPMB4W8Qxk0qXa7mFUFv95yT0gnfNVcCA6ADIjSusMaItd\nM/VD5HNmvt6aNGsW45f6CTCvN8WjK8A4k0/5kzJEXZxkYlSBgU3llFxoEeziUpwp\nEpwIl84VAgMBAAECggEAD82IiRLQzl1iFhsw2kR/mE9t3+5F5OZ5KN7bgawxQKhY\nFrwBvZX8YB2SuZNVhVZwkAmBfDOVaznLwW1PQA/x4U3h/0mowyZLPgxIzhRWIvrI\ndIa9pyFKPENpjcTWidZpgiprCAAfhQTh9Pw6cAhVz21dmjSCq99jCn7Bfe+gLAiY\nbSoxmKk23WEXjJUgWCv8M3oUba//quNaQQlDEgPEC6IgL0En3d4qdb9+/xHPf7f4\np2SSExku8VM7D2++rPpydYhqhpwimy9GzZSpWUkVp43nZLzjJDtqEaFlZAoKTbY1\n7Deo5CoIIQkCUTMnbXADapG/mAdQ9kd5DIATUUKgiQKBgQDyEOsWevNGeQwxLXH6\nWEo0CMCRpwJzb6E5epnFzLVpTTeeBCaY1CvXoYPjhLHWyQL5tGyB97zQRA8df0ij\nqDQpk0iiaDvftSBsYApDMx3ZWgt6coNKZ374YzC3VTipmKN6adirI20LVueWFpT+\n7mnxqZ/CiwTrXYAi+1DXgZvWqwKBgQDfb98DG27y8aoU7laq3l/a/ly8ct2nU2oD\nk3YBbPt3wp6CvQZR+KtGO+fvBsSPCj1SkWWzF6owVQ1ZCpLt4FrOBbffKVIJLt3m\nH/jECIB392qlgWW5HpmqteT0ULr9+SrPwofTHaWqryatuMiZ9OIMMn6RNL0oFLpG\n1ivlQQHuPwKBgDGfjEH4hISu7fPq6BG1JckS/j8dqJ/3g2qgGoP1Gj9zB/LJ0QvF\nexNiVgI/QqHQZV7BQPlHyxo6yYp3fHGoWsEnI12/1n5eyD3PVms+QGE9V1sLvKR1\nIQ9Ubjk3LD2AQAspRbSXt5P6hdE74eF9CJT0+/5Kt4B0k38YXBNBy6uvAoGBAILm\nrJXKba7BLC7FD1tdmnTXTodNGFSeRt6/doQRUCXyjCD2EwzVDarBD/l2UpOmoRSN\ngDJzK87TFVXUHw5jwW8v5HBGafxdS701f+2BOZqPBhjefTT+G3Lqy67i2RpP7uf3\nBNIHbXZY1OUz+7pOwFv6/TGe3y7rLdKwSNkvw6zLAoGAGs8qouWo5dESArolMUvk\nj97OhAhDwsrslucTysaf69njKU1dmcdzL1fF3I9y5X+mW+e6gJwHt55e4Z75qjpn\n4kv8A+fTPL5BWUyq5WKzggy6j6aCo4jntxWVv42nRflUXV4f6lrLErTqvj2sIxTi\n19fuj13PQkMG6TVh6/MqX9A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fantasyfootball@fantasyfootball-321306.iam.gserviceaccount.com",
+  "client_id": "111289293995241617527",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fantasyfootball%40fantasyfootball-321306.iam.gserviceaccount.com"
+}
